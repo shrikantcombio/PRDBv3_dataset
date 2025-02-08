@@ -19,7 +19,7 @@ The protein-RNA docking benchmark version 3.0 (**PRDBv3.0**) is a comprehensive 
    - (A) complexes with tRNA: 40
    - (B) complexs with rRNA: 9
    - (C) complexes with duplex-RNA: 62
-   - (D) complexes with signle-stranded RNA: 86 
+   - (D) complexes with signle-stranded RNA: 86. 
 
 5. Inclusion of binding affinity (Kd) values for 105 protein-RNA complexes, along with experimental details.
 
@@ -96,13 +96,12 @@ Each record in the dataset consists of the following key-value pairs:
 
 ## Usage
 This updated benchmark will be valuable for:
-- Studying protein-RNA interactions
-- Evaluating both rigid-body and flexible docking methods
-- Testing methods aimed at predicting binding affinity
-- Developing and improving protein-RNA docking algorithms
+- Studying protein-RNA interactions.
+- Evaluating both rigid-body and flexible docking methods.
+- Testing methods aimed at predicting binding affinity.
+- Developing and improving protein-RNA docking algorithms.
 
 ## Citation
 If you use this dataset in your research, please cite:
 
-Shri Kant, NITHIN Chandran, Sunandan Mukherjee, et al. Protein-RNA Docking Benchmark v3.0 integrated with Binding Affinity. Authorea. September 23, 2024. DOI:[10.22541/au.172712541.17955138/v1](https://doi.org/10.22541/au.172712541.17955138/v1)
-
+Shri Kant, NITHIN Chandran, Sunandan Mukherjee, et al. Protein-RNA Docking Benchmark v3.0 integrated with Binding Affinity. Authorea. September 23, 2024. DOI:[10.22541/au.172712541.17955138/v1](https://doi.org/10.22541/au.172712541.17955138/v1).
