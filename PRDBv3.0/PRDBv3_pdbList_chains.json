@@ -175,9 +175,9 @@
         "Binding_affinity":"yes",
         "C_resolution":2.81,
         "C_chain_PR":"  AA'BB':E",
-        "C_pro_chain":"AEKM",
+        "C_pro_chain":"ABKM",
         "C_pro_seq_length":"429+429+429+429",
-        "C_RNA_chain":"I",
+        "C_RNA_chain":"E",
         "C_RNA_seq_length":"69",
         "U_pro_PDB":"3BC8",
         "U_pro_resolution":"1.65",
@@ -430,7 +430,7 @@
         "C_pro_chain":"A",
         "C_pro_seq_length":"841",
         "C_RNA_chain":"C",
-        "C_RNA_seq_length":"30",
+        "C_RNA_seq_length":"20",
         "U_pro_PDB":"2B3Y",
         "U_pro_resolution":"1.85",
         "U_pro_chain":"A",
@@ -595,9 +595,9 @@
         "Binding_affinity":"no",
         "C_resolution":2.9,
         "C_chain_PR":"  AA':B",
-        "C_pro_chain":"AD",
+        "C_pro_chain":"AC",
         "C_pro_seq_length":"402+405",
-        "C_RNA_chain":"G",
+        "C_RNA_chain":"B",
         "C_RNA_seq_length":"72",
         "U_pro_PDB":"1H3F",
         "U_pro_resolution":"2",
@@ -639,7 +639,7 @@
         "C_chain_PR":"  AA':B",
         "C_pro_chain":"AC",
         "C_pro_seq_length":"290+284",
-        "C_RNA_chain":"EI",
+        "C_RNA_chain":"BD",
         "C_RNA_seq_length":"74+74",
         "U_pro_PDB":"1U7D",
         "U_pro_resolution":"2.65",
@@ -765,7 +765,7 @@
         "C_chain_PR":"  AA':C",
         "C_pro_chain":"AF",
         "C_pro_seq_length":"377+353",
-        "C_RNA_chain":"L",
+        "C_RNA_chain":"C",
         "C_RNA_seq_length":"72",
         "U_pro_PDB":"1R6U",
         "U_pro_resolution":"2",
@@ -3945,7 +3945,7 @@
         "U_RNA_PDB":"3L0U",
         "U_RNA_resolution":"3",
         "U_RNA_chain":"A",
-        "U_RNA_seq_length":"17"
+        "U_RNA_seq_length":"73"
     },
     {
         "C_PDB":"3ZJT",
@@ -3966,7 +3966,7 @@
         "U_RNA_PDB":"2NQP*",
         "U_RNA_resolution":"3.5",
         "U_RNA_chain":"F",
-        "U_RNA_seq_length":"34"
+        "U_RNA_seq_length":"65"
     },
     {
         "C_PDB":"6AAX",
