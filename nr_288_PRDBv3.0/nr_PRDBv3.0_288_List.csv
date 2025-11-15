@@ -1,0 +1,290 @@
+PDB ID,PR_chains,Complex_Protein_Name,Residues_Count,RNA_Name,Nucleotides_Count,Resolution,Structural_Class,BSA,BSA_Protein,BSA_RNA
+1ASY,A:R,yeast aspartyl-tRNA synthetase,490,tRNA-Asp,75,2.9,A,4432,2129,2302
+1AV6,A:B,Cap-specific mRNA methyltransferase,295,M7G capped RNA,6,2.8,D,845,385,460
+1B23,P:R,T. Aquaticus EF-TU,405,E. coli tRNA-Cys,74,2.6,A,2617,1235,1382
+1C0A,A:B,E. coli aspartyl-tRNA synthetase,585,tRNA-Asp,77,2.4,A,4180,2006,2174
+1C9S,L:W,TRAP,74,ssRNA,7,1.9,D,1028,487,541
+1CVJ,A:M,poly(A)-binding protein,190,polyA,11,2.6,D,2823,1196,1626
+1DFU,P:MN,Ribosomal Protein L25,94,5s rRNA,19+19,1.8,B,1688,828,860
+1DI2,AB:CD,dsRBD A,69+69,dsRNA,10+10,1.9,C,1416,748,668
+1F7U,A:B,arginyl-tRNA synthetase,607,tRNA-Arg,76,2.2,A,5769,2662,3106
+1FEU,A:BC,Ribosomal protein L5,206,5s rRNA,19+21,2.3,B,1595,790,806
+1FFY,A:T,Isoleucyl-tRNA synthetase,917,tRNA-Ile,75,2.2,A,4971,2463,2508
+1G1X,ABC:DE,"ribosomal proteins S15, S6, S18",98+88+88,16S rRNA,41+44,2.6,B,4945,2427,2518
+1G2E,A:B,RRMdomain of the HuD protein,167,class II ARE fragment,10,2.3,D,2776,1322,1454
+1GAX,A:C,Valyl-tRNA synthetase,862,tRNA-Val,75,2.9,A,5173,2502,2671
+1H3E,AD:BG,T. thermophilus  tyrosyl-tRNA synthetase,432,tRNA-Tyr,86,2.9,A,6722,3271,3451
+1H4S,AB:T,T. thermophilus prolyl-tRNA synthetase,477+477,tRNA-Pro,77,2.85,A,2481,1155,1325
+1HQ1,A:B,E.coli SRP,105,4.5S RNA domain IV,49,1.52,C,1365,688,677
+1I6U,A:C,M. jannaschii ribosomal protein S8,130,16S rRNA,37,2.6,B,1802,885,916
+1J1U,AC:BE,M. jannaschii Tyrosyl-tRNA synthetase,306+306,tRNA-Tyr,77,1.95,A,4484,2130,2354
+1JBS,A:C,Restrictocin,149,SRD RNA Analogue,29,1.97,D,1313,668,645
+1JID,A:B,H. sapiens SRP19,128,SRP RNA,29,1.8,D,1436,703,733
+1K8W,A:B,Pseudouridine synthase B,327,T stem-loop RNA,22,1.85,D,2974,1342,1632
+1KNZ,AB:W,Rotavirus NSP3,164,mRNA,5,2.45,D,1921,762,1159
+1KQ2,ABHIKM:R,Hfq,77+77+77+77+77+77,7-mer RNA,7,2.71,D,3026,1354,1672
+1LNG,A:B,M. jannaschii SRP19,87,7S SRP RNA,97,2.3,D,2367,1145,1223
+1M5O,C:AB,U1 Snp,100,Hairpin ribozyme,92,2.2,D,1766,822,944
+1M8V,AM:O, P. abyssi Sm PROTEIN,77+77,Uridine Heptamer,7,2.6,D,1289,603,687
+1M8W,A:CE,Pumilio-homology domain,349,Nre1-19  RNA,8+8,2.2,D,2142,973,1169
+1MJI,AB:CD,T. thermophilus ribosomal protein L5,182,5S rRNA fragment,34,2.5,B,5603,2777,2826
+1MMS,A:C,T. maritima ribosomal protein L11,140,T. maritima 23S rRNA fragment,58,2.57,B,2455,1200,1255
+1MSW,D:R,T7 RNA polymerase,883,RNA transcript,10,2.1,C,5697,2829,2868
+1MZP,A:B,S. acidocaldarius ribosomal protein L1P,217,23S rRNA fragment,55,2.65,B,2949,1511,1437
+1N35,A:BC,Reovirus polymerase,1267,dsRNA,5+10,2.5,C,3245,1558,1686
+1N78,A:C,T. thermophilus glutamyl-tRNA synthetase ,468,tRNA-Glu,75,2.1,A,4511,2120,2390
+1OOA,A:C,NF-kappaB p50,326,aptamer RNA,29,2.45,C,1910,996,913
+1Q2R,AB:E,Guanine transglycosylase,386+386,20-mer tRNA fragment,20,2.9,C,2671,1255,1417
+1QF6,A:B,E. coli threonyl-tRNA synthetase,642,tRNA-Thr,76,2.9,A,4229,2079,2150
+1QTQ,A:B,E. Coli Glutaminyl-tRNA synthetase,553,tRNA-Gln,75,2.25,A,5203,2427,2775
+1R3E,A:CDE,Pseudouridine Synthase TruB,309,tRNA fragment,17,2.1,C,3683,1715,1968
+1R9F,AD:BC,p19,136+136,siRNA,21+21,1.85,C,3217,1535,1682
+1S03,H:A,E. coli ribosomal protein S8,129,RNA,47,2.7,B,1744,848,896
+1SDS,CA:FG,50S ribosomal protein L7Ae,117,box H/ACA sRNA,15,1.8,B,2399,1106,1293
+1SER,AB:T,T. thermophilusseryl-tRNA synthetase,421+421,tRNA-Ser,94,2.9,A,2259,1121,1138
+1SI3,AC:BD,PAZ domain of eIF2c1,149,siRNA,9,2.6,C,3559,1710,1849
+1U0B,B:A,E.coli cysteinyl-tRNA synthetase,461,tRNA-Cys,74,2.3,A,4558,2152,2406
+1UVI,A:D,phi6 RNA polymerase,664,6-mer RNA,6,2.15,D,1814,780,1034
+1VFG,B:D,CCA-adding enzyme,390,tRNA,75,2.8,A,1665,833,832
+1WNE,A:BC,Foot-and-mouth disease virus polymerase,476,template-primer RNA decanucleotide,8+5,3,C,3079,1427,1652
+1WPU,A:C,HutP antitermination protein,147,hut mRNA,7,1.48,D,1358,623,735
+1WSU,A:E,Elongation Factor SelB,124,SECIS RNA,23,2.3,D,938,452,486
+1YVP,B:EFH,Ro autoantigen,538,Y RNA,10+10+10,2.2,C,3496,1652,1844
+1ZBH,ABCD:EF,exonuclease  ERI1,299+299,Histone mRNA,20,3,D,3487,1752,1734
+1ZBI,A:CD,RNase H,142+142,A form RNA,12+12,1.85,C,3211,1502,1709
+1ZH5,AB:C,La autoantigen,195+195,3'-terminii mRNA,9,1.85,D,1119,478,641
+2A8V,B:E,RHO,118,Cytosine rich RNA,6,2.4,D,719,281,438
+2ANR,A:B,Nova-1 KH1/KH2 domain,178,hairpin RNA,25,1.94,D,1220,583,636
+2ASB,A:B,Nus A,251,rRNA,11,1.5,D,2317,1092,1225
+2AZ0,AB:CD,Flock house virus  B2,73+73,siRNA,18+18,2.6,C,2264,1103,1161
+2AZX,AF:CL,H. sapiens tryptophanyl-tRNA synthetase,477,tRNA-Trp,75,2.8,A,4269,2047,2222
+2B3J,AB:EF,TadA,159,tRNA-Arg2,16,2,D,3507,1737,1770
+2BGG,A:PQ,A. fulgidus PIWI,427,siRNA,8+8,2.2,C,2241,1027,1214
+2BH2,A:C,Methyltransferase RumA,433,23S rRNA,37,2.15,D,4043,1979,2064
+2BTE,A:B,T. thermophilus leucyl-tRNA synthetase,878,tRNA-Leu,83,2.9,A,3431,1690,1742
+2BX2,LM:RS,RNase E,517,RNA,15,2.85,C,5005,2356,2649
+2CSX,A:C,Methionyl-tRNA synthetase,497,tRNA-Met,75,2.7,A,2183,1041,1142
+2DB3,A:E,DEAD-box helicase vasa,434,ssRNA,10,2.2,D,1193,494,699
+2DLC,XA:YG,Tyrosyl-tRNA synthetase,394,tRNA-Tyr,76,2.4,A,4266,2056,2210
+2DRB,A:B,CCA-adding enzyme,437,tRNAminiCCA,35,2.8,A,3198,1449,1749
+2DU3,AEBF:DH,O-phosphoseryl-tRNA synthetase,534+534+534+534,tRNA-Cys,71+71,2.6,A,2812,1296,1516
+2EZ6,AB:CD,RNase III,221+221,28-mer RNA,28+28,2.05,C,5194,2617,2577
+2F8S,A:CD,A. aeolicus Argonaute,706+706,siRNA,22+22,3,C,990,488,502
+2FK6,A:R,RNase Z,320,tRNA-Thr,79,2.9,A,1531,751,781
+2FMT,A:C,methionyl-tRNAfmet transformylase,314,tRNAfmet,77,2.8,A,2941,1499,1442
+2G4B,A:B,Splicing factor U2AF,172,Polypyrimidine,7,2.5,D,1162,543,619
+2GIC,A:R,VSV nucleocapsid,422,viral genomic RNA,45,2.92,D,1826,898,929
+2GJW,AB:EFH,Splicing endonuclease,313+313,bulge-helix-bulge RNA,19+12+7,2.85,C,2979,1399,1580
+2GXB,A:EF,Z alpha domain of adenosine deaminase,66,dsRNA,7+7,2.25,C,769,363,406
+2HW8,A:B,Ribosomal protein L1,228,mRNA,36,2.1,B,2401,1164,1237
+2I82,A:E,Pseudouridine synthase  RluA,217,tRNA-Phe,21,2.05,D,3019,1453,1565
+2IX1,A:B,RNase II,664,polyA,13,2.74,D,4161,1935,2227
+2J0S,ACDT:E,Exon junction complex,410+146+89+150,mRNA,15,2.21,D,1436,591,845
+2JEA,AB:C,S. solfataricus exosome,277+250,substrate RNA,35,2.33,D,1533,693,840
+2JLU,A:C,Serine protease subunit NS3,451,ssRNA,12,2.04,D,1926,846,1079
+2OZB,AB:C,Ribonucleoprotein,130+260,U4snRNA,33,2.6,C,2569,1261,1308
+2PJP,A:B,E.coli  SelB,121,SECIS RNA,23,2.3,C,1300,628,673
+2PY9,B:E,Poly(rC)-binding protein 2,73,human telomeric RNA,12,2.56,D,1061,513,548
+2Q66,A:X,S.cerevisiae poly(A) polymerase,525,polyA,5,1.8,D,1811,815,996
+2QUX,AB:C,Pseudomonas phage PP7 coat protein,125+125,hairpin RNA,25,2.44,C,1754,801,953
+2R7R,A:X,Rotavirus polymerase VP1,1095,RNA,7,2.6,D,1955,906,1049
+2R8S,LH:R,synthetic FAB,214+224,Ribozyme,159,1.95,C,2510,1194,1316
+2VNU,D:B,Exonuclease  Rrp44,760,ssRNA,10,2.3,D,3166,1455,1712
+2XD0,A:G,P. atrosepticum ToxN,171,P. atrosepticum ToxI,36,3,C,1887,882,1005
+2XGJ,A:C,Mtr4,1010,polyA,5,2.9,D,1389,641,748
+2XNR,A:C,Nab3-RRM,97,UCUU recognition sequence,12,1.6,D,926,404,522
+2XS2,A:B,Murine Dazl,102,3'-UTRs of mRNA,8,1.35,D,1299,607,692
+2XZO,A:D,Upf1 helicase,623,polyU,7,2.4,D,2006,937,1069
+2Y8W,A:B,Endoribonuclease Cse3,215,hairpin RNA,20,1.8,C,3258,1528,1730
+2YKG,A:CD,RIG-I,696,dsRNA,10+10,2.5,C,2150,985,1165
+2ZI0,AB:CD,TAV2b,75+75,siRNA,21+21,2.82,C,4574,2341,2234
+2ZKO,AB:CD,NS1 protein of influenza A,73+73,A-form dsRNA,21+21,1.7,C,2466,1238,1228
+2ZM5,A:C,isopentenyltransferase,316,tRNA-Phe,76,2.55,A,3936,1953,1983
+2ZZM,A:B,Trm5,336,tRNA-Leu,84,2.65,A,4492,2140,2352
+3A6P,AC:DE,Exp-5:RanGTP,1024+13+216,pre-microRNA,24+24,2.92,C,4223,2043,2180
+3ADB,A:C,O-phosphoseryl-tRNA kinase,259,tRNA-Sec,92,2.8,A,3099,1579,1521
+3AEV,B:C,Dim2p,219,P. horikoshii 16S rRNA fragment,11,2.8,D,2416,1132,1285
+3AMT,A:B,Agmatinylcytidine synthetase TiaS,440,tRNA-Ile,78,2.9,A,3822,1826,1996
+3BSN,A:PT,Norwalk virus polymerase,510,RNA,8+9,1.8,C,3009,1393,1616
+3BT7,A:C,Methyltransferase TrmA,369,T-arm analogue,19,2.43,C,2230,982,1249
+3BX2,A:C,PUF4,335,3' UTR binding sequence,9,2.84,D,2467,1098,1370
+3D2S,A:E,MBNL1 ZnF3/4,70,pre-mRNA,6,1.7,D,1266,574,692
+3DD2,H:B,Thrombin,258,26-mer RNA,26,1.9,C,1509,719,790
+3DH3,B:F,RluF,290,23S RNA,22,3,C,3425,1664,1761
+3EPH,A:E,DMATase,409,tRNA-Cys,69,2.95,A,4815,2298,2517
+3EQT,AB:CD,Helicase DHX58,145,dsRNA,8,2,C,2706,1216,1490
+3FTE,A:CD,Methyltransferase KsgA,249,rRNA,22+22,3,C,837,430,407
+3HL2,KMAB:E,Selenium transferase,501,tRNA-Sec,90,2.81,A,2193,1096,1097
+3I5X,A:B,Mss116p,563,polyU,10,1.9,D,2228,969,1259
+3IAB,AB:R,RNases P/MRP,158+140,RNase MRP P3 domain,46,2.7,C,5088,2387,2701
+3IEV,A:D,GTPase era,308,16S rRNA,12,1.9,D,2273,1014,1260
+3K5Q,A:B,FBF,412,mRNA,9,2.2,D,2597,1177,1420
+3KS8,AB:EF,Polymerase cofactor VP35,184+184,dsRNA,18+18,2.4,C,1664,799,864
+3MDG,AB:C,CFI(m)25,227+227,pre-mRNA,6,2.22,D,1069,503,566
+3MOJ,B:A,Helicase dbpA,76,E.coli 23S rRNA fragment,74,2.9,C,1759,857,902
+3NMR,A:B,CUG-binding protein 1,175,UGU-rich mRNA,12,1.85,D,1097,489,608
+3O3I,XY:AB,Hiwi1 PAZ domain,124,piRNA,14,2.8,C,2712,1254,1459
+3O8C,A:C,HCV NS3 helicase,666,polyU,6,2,D,1909,909,1000
+3OIJ,AB:C,Methyltransferase,253+253,SSU rRNA,14+14,3,C,2070,999,1072
+3OL6,A:BCD,Poliovirus polymerase,471,RNA,26+14+9,2.5,C,4175,1999,2176
+3PF4,B:R,CspB,67+67,ssRNA,7,1.38,D,893,419,474
+3QJJ,A:Q,RAMP Protein,243,CRISPR Repeat RNA,12,2.8,D,3191,1490,1701
+3R2C,AJ:R,NusB-NusE,148+83,BoxA RNA,12,1.9,D,2278,1027,1251
+3RC8,A:E,Helicase SUPV3L1,677,RNA fragment,6,2.9,D,1471,668,802
+3RW6,A:H,Nuclear RNA export factor 1,267,CTE RNA,62,2.3,C,2699,1319,1380
+3SNP,A:C,Iron regulatory protein 1,908,ferritin H IRE RNA,30,2.8,C,2872,1351,1522
+3T5N,A:C,Lassa virus nucleoprotein,354,ssRNA,6,1.79,D,1910,857,1053
+3VJR,A:B,Peptidyl-tRNA hydrolase,197,tRNA CCA-acceptor,36,2.4,A,1354,690,664
+3ZC0,AEBFCGDH:MN,A. fulgidus C3PO,199+199+199+199+199+199+199+199,duplex RNA,16+16,2.98,C,2324,1123,1201
+3ZJT,A:B,E.coli leucyl-tRNA synthetase,880,tRNA-Leu,88,2.2,A,4323,2125,2198
+4ATO,ABC:GHI,B. thuringiensis ToxN,194+194+194,B. thuringiensis ToxI,34,2.2,C,13074,6149,6925
+`4E78,A:PT,HCV polymerase,572,RNA primer-template pair,6+6,2.9,D,1675,783,892
+4ERD,AB:CD,p65 C-terminal domain,129+129,stem IV of telomerase RNA,22+22,2.59,C,1605,783,823
+4FVU,A:BC,Exonuclease,243,dsRNA,8+8,2.91,C,1240,575,666
+4H5P,ABCD:EF,Nucleocapsid,245+245,polyU,14,2.15,D,9039,4386,4653
+4HOR,A:X,IFIT,482,polyC,5,1.86,D,1131,494,638
+4IG8,A:BC,oligoadenylate synthetase 1,349,dsRNA,18+18,2.7,C,2914,1416,1499
+4ILL,AB:RC,endoribonuclease Cas6,289+289,CRISPR RNA,24+24,2.48,C,7076,3272,3804
+4J1G,ABCD:E,Nucleocapsid,235+235+235+235,polyU,45,2.79,D,12124,5911,6212
+4J7M,A:B,Dom3Z,378,polyU,5,1.7,D,848,397,451
+4L8H,AB:R,bacteriophage Qβ coat protein,132+132,operator hairpin RNA,20,2.4,C,1995,914,1081
+4M59,AB:CD,Chloroplast ppr10,718+718,psaJ RNA,18+18,2.46,D,7843,3665,4178
+4MDX,AB:C,mRNA interferase MazF,117+117,mRNA,9,1.5,D,2127,958,1169
+4N2Q,A:B,Thylakoid assembly 8,258,Zm4 13-mer RNA,13,2.8,D,814,375,439
+4QU6,A:B,Human GRSF1,107,Synthetic RNA,6,1.75,D,696,305,391
+4QU7,A:U,Human GRSF1,81,Synthetic RNA,6,2.5,D,751,331,420
+4U8T,AD:OT,YTH domain,177+177,heptaribonucleotide,7,2.7,D,1165,550,615
+4YCP,A:B,E. coli dihydrouridine synthase C,321,TRNA-Trp,76,2.55,A,2151,1025,1126
+4YVJ,AB:C,TrmD,266,TRNA,74,2.9,A,2313,1068,1245
+4Z4D,A:BD,Human Argonaute-2,859,Guide and t1G target RNAs,21+11,1.6,D,5941,2806,3134
+4ZT0,A:B,Cas9,1369,ss-Guide RNA,85,2.9,D,10847,5152,5695
+5AOR,A:C,D. melanogaster RNA Helicase Mle,1293,Synthetic RNA,11,2.08,D,3447,1544,1903
+5AOX,AB:C,Human SRP,85+94,Synthetic RNA,87,2.04,B,2744,1366,1378
+5B63,A:B,E.coli arginyl-tRNA synthetase,587,tRNA-Arg,77,3,A,6363,3142,3221
+5DET,AB:PQ,Human RBPMS,98,CAC containing RNA,5+4,1.95,D,2138,896,1242
+5EIM,A:C,YTH domain containing protein Mmi1,163,Synthetic RNA,8,1.54,D,1530,745,784
+5ELH,B:R,CCCH Zinc fingers from Unkempt homolog,145,UUA trimer containing RNA,5,1.8,D,1069,485,584
+5ELK,A:R,CCCH Zinc fingers from Unkempt homolog,133,UAG trimer containing RNA,6,2.3,D,1237,482,755
+5ELR,C:B,Human T-STAR proteins,136,Synthetic RNA,6,2.3,D,1269,590,679
+5ELS,AC:HI,Human T-STAR proteins,113,Synthetic RNA,6,2.87,D,2313,1077,1236
+5EX7,A:B,Brain tumor protein,286,Hunchback mRNA,8,2.6,D,1640,730,909
+5F5F,A:B,Roquin-1,190,Mrna,20,3,C,1655,822,834
+5F5H,A:C,Roquin-2,180,MRNA,22,2.23,C,1618,788,830
+5GXH,A:B,Gemin5,757,Pre-snRNAs,8,1.8,D,1711,755,956
+5HO4,A:B,hnRNP A2/B1,179,substrate RNA,10,1.85,D,1401,651,751
+5HR7,A:D,RNA methyltransferase RlmN,404,TRNA-Glu,76,2.4,A,3451,1643,1808
+5I4A,C:D,M. piezophila KA3 Argonaute protein,642,Synthetic RNA,21,1.95,D,3265,1429,1837
+5ID6,A:G,L. bacterium Cpf1,1228,Synthetic RNA,21,2.38,C,5116,2471,2645
+5LTA,A:E,T. thermophila DEAH-box heicase Prp43,714,Synthetic RNA,16,2.62,D,2287,1032,1255
+5N94,A:C,DHX36 helicase,944,PolyU,8,2.43,C,2664,1169,1495
+5O7H,BCDEF:A,Cascade-I-Fv,167+315+315+315+336,CrRNA,43,3,D,12537,5760,6777
+5SZE,A:C,Aquifex aeolicus Hfq-RNA,83,PolyU,6,1.5,D,502,223,279
+5T16,ABCDEF:GH,yeast RNase III,276,RNA substrate analog,34,2.78,C,8035,3906,4129
+5T8Y,B:X,B. subtilis Epoxyqueuosine reductase,437,anticodon stem loop of tRNA-Tyr,17,2.65,A,697,338,360
+5TF6,A:B,S. cerevisiae U4/U6 snRNA-associated splicing factor Prp24,374,U6 snRNA,72,2.3,C,5397,2616,2781
+5THE,A:B,V. polyspora catalytic C-terminal lobe of yeast Argonaute,549,guide RNA,8,2.1,C,1934,812,1122
+5UD5,A:C,Pyrrolysyl-tRNA synthetase,109,tRNA(Pyl),72,2.35,A,2334,1175,1159
+5UDZ,A:V,LIN28A,148,let-7f-1 microRNA pre-element,25,2,C,2588,1259,1329
+5V7C,B:C,LARP1-unique domain DM15,162,5'TOP motif,8,2.59,D,1238,581,657
+5W0M,A:H,TUT7 catalytic module,389,PolyU,5,2.3,D,1734,795,939
+5WLH,A:B,LbaCas13a,1440,Pre-crRNA,54,1.8,D,11454,5561,5892
+5WT1,A:C,Trm5a,333,tRNA Phe,76,2.6,A,4824,2399,2425
+5WTK,A:B,L. shahii CRISPR-associated endoribonuclease C2c2,1397,CRISPR RNA,58,2.65,C,8811,4278,4534
+5WTY,A:C,S. cerevisiae Nucleolar protein 9,587,18s rRNA,18,2.79,B,3205,1398,1808
+5WWW,A:B,KH1 domain of MEX-3C,94,6-mer RNA,6,1.8,D,1496,635,861
+5WWX,A:C,KH2 domain of MEX-3C,86,5-mer RNA,5,2,D,1380,618,761
+5WZJ,A:B,At Pumilio homolog 23,582,18S rRNA,11,2.1,B,3613,1520,2093
+5X6B,IJEF:P,SepCysE-SepCysS,417+417+216+216, TRNACys,75,2.6,A,4240,2134,2106
+5Y58,AB:X,Ku heterodimer,575+628,telomerase RNA – TLC1,30,2.8,C,3288,1565,1723
+5Z98,AB:CD,CpzA3H,185+185,duplex RNA,10+10,2.2,C,3447,1670,1778
+5Z9X,A:R,Small RNA degrading nuclease 1,409,substrate RNA,10,2.8,D,1186,538,647
+5ZQ8,A:D,RlmCD,454,U747 stemloop RNA,12,2.18,C,1992,929,1063
+5ZSC,A:C,Toll-like receptor 7,823+823,CCUUCC RNA,6+6,2.2,D,2698,1132,1567
+5ZUU,C:F,A. thaliana AtCPSF30 YTH domain,180, m6A-modified RNA,10,1.95,D,898,411,487
+5ZW4,A:D,TrmR,225,tRNA fragment,17,1.7,A,762,403,359
+6A4E,A:B,Oligoribonuclease,181,U-rich RNA,5,2.45,D,1878,761,1117
+6A6J,A:B,cold shock domain of Ybx1,93,6mer m5C RNA,6,2.26,D,1167,565,602
+6AAX,A:B,H. sapiens Mitochondrial transcription factor B1,319,12S rRNA,28,2.99,B,1758,795,964
+6AAY,A:B,Cas13b,1232,CRISPR RNA,59,2.79,C,10561,5030,5531
+6D12,B:C,xRRM domain of human Larp7,113,7SK stem-loop 4 RNA,38,2.21,C,2625,1209,1416
+6DCB,A:B,methylphosphate capping enzyme,309, 5' end of 7SK RNA,36,2,C,697,348,349
+6DTD,A:C,Cas13b,1127,crRNA,37,1.65,C,7161,3421,3740
+6DU4,A:B,hMettl16 catalytic domain,313,Hp1x-RNA,29,1.7,C,4018,1916,2102
+6F3H,A:C,Mitochondrial Exoribonuclease II,832,6-mer RNA,6,2.7,D,1985,854,1131
+6FQ3,A:B,E3 ubiquitin-protein ligase TRIM71,409,lin-29A 5'UTR,13,1.9,C,986,445,541
+6GC5,A:E,HuR RRM3,90,AU-rich RNA,11,1.9,D,2106,964,1142
+6H9H,B:E,Csf5,266,CrRNA,26,1.75,C,3956,1897,2059
+6HAU,AB:D,mRNA export factor ICP27 homolog,273+273, MRE fragment of PAN RNA,17,1.86,D,994,469,525
+6HTU,ABC:DF,hStau1 dsRBD3-4,182+182+182,ARF1 RNA,19+19,2.89,C,3840,1943,1897
+6I0V,A:B,DmTailor,384,8-mer RNA,8,1.85,D,1380,584,797
+6IFN,ABCDEFGH:N,S. thermophilus type III-A CRISPR-Cas interference complex,758+220+299+126+357,crRNA,40,2.9,D,11486,5125,6361
+6IV9,A:B,Cas13d,930,CrRNA,50,1.86,C,7842,3692,4150
+6JDQ,A:B,CRISPR-associated endonuclease Cas9,1092,SgRNA,135,2.95,C,10828,5327,5501
+6JIM,A:C,Chikungunya virus nsP2 helicase,465,U-rich RNA,8,2,D,2198,1035,1163
+6JVX,A:B,RBM38,128,single-stranded RNA,12,2.3,D,1578,727,851
+6KR6,A:B,Piwi,810,PiRNA,5,2.9,D,1292,548,744
+6L1W,A:C,Zinc finger CCCH-type antiviral protein 1,228,CG rich RNA,7,2.19,D,1356,633,723
+6L5N,A:C,H. sapiens nucleolar RNA helicase 2,377,poly(U)-15mer,15,2.24,D,3082,1316,1766
+6LLB,A:C,MPY-RNase J,470+470,6-mer RNA,6+6,2.6,D,5070,2296,2774
+6LT7,AB:C,H. sapiens ribonuclease P protein subunit p20,141+198,P3 domain of lncRNA RMRP,50,2.7,D,5371,2530,2841
+6LVR,C:D,"A. thaliana proteinaceous RNase P 1, chloroplastic/mitochondrial",208,tRNA-Phe,76,2.85,A,2677,1287,1389
+6M6S,AB:CD,C. elegans dicer Related Helicase /(DRH-3),170,dsRNA,12,1.6,C,2396,1113,1283
+6O16,A:C,EAH helicase DHX37,975,Synthetic RNA,10,2.88,D,3238,1503,1736
+6PZQ,AB:IJ,H. Respiratory Syncytial Virus M2-1 Protein,194,Short Positive-Sense Gene-End RNA,7,2.23,C,668,316,352
+6R9P,A:B, apo Pan2 pseudoubiquitin hydrolase,672, AAUUAA RNA,6,2.98,D,974,440,534
+6RTI,A:X,H. sapiens glutamate carboxypeptidase 2,707,A9gRNA aptamer (43-MER),43,2.2,D,2057,980,1077
+6SY4,AB:C,TetR,208+208,TetR-binding aptamer K1,43,2.7,C,1702,881,821
+6U6Y,AD:EH,H. sapiens deoxynucleoside triphosphate triphosphohydrolase SAMHD1,533,ribo(CGCCU)-oligonucleotide,5,2.47,B,1996,868,1127
+6U9X,D:H,MERS1,363,G rich RNA,11,2.6,D,2250,932,1318
+6VRD,A:BC,H. sapiens Ribonuclease H1,294,RNA,20+20,1.3,C,1175,569,607
+6WXY,BC:A,T. succinifaciens card1 nuclease,382,CrRNA cA6-bound,6,2.1,D,2186,970,1216
+6YRQ,A:E,A. orthohantavirus tetramerization domain of the glycoprotein Gn,149,RNA,5,1.9,D,4621,1948,2673
+6ZDP,A:B,C. tropicalis telomerase reverse transcriptase,724,TWJ fragment of telomeric RNA,72,2.85,C,2629,1305,1324
+6ZOT,AB:C,H. sapiens YTH domain-containing family protein 3,199,m6A RNA,5,2.7,C,912,417,495
+7A9X,A:B,"S. cerevisiae protein RMD9, mitochondrial",603,3'-UTRs  mRNA,16,2.45,C,4201,1923,2278
+7C45,A:D,T. brucei  RNase D ribonuclease,302,Guide RNA U12,12,1.77,C,2405,1120,1285
+7DOL,A:C,M. genitalium Ribonuclease R,747,dsRNA,6,2,C,2076,882,1194
+7E8O,AB:X,"	
+P. bacterium RNA-free ribonuclease P",208,histidine pre-tRNA,85,2.8,A,801,398,403
+7EIU,A:C,S. pombe Meiosis protein mei2 RRM3,155,meiRNA,6,2.35,D,2431,1149,1283
+7ENI,A:B,S. aureus CRISPR-associated endonuclease Cas9,1054+128,sgRNA (74-MER),75,2.63,D,11487,5430,6057
+7K5L,A:R,E. virus Matrix protein VP40,172,mRNA,35,1.38,C,474,219,255
+7K98,ABDE:CF,M. tuberculosis phenylalanine-tRNA ligase alpha subunit ,344+840,tRNA-Phe,77,2.19,A,7115,3854,3260
+7KFN,AD:BC,H. sapiens adenosine deaminase,403,dsRNA Gli1 8AZ+1W5,23+23,2.5,C,2298,1098,1201
+7KKV,A:B,A. halodurans OapB protein,98,OLE RNA target,60,2,C,1365,702,663
+7KL3,A:B,Influenza A virus california PA endonuclease,197,RNA oligomer AG*CAUC,6,1.99,D,848,388,460
+7L6T,A:C,SARS-CoV-2 Nsp16/10 Heterodimer,300,mRNA,7,1.78,C,1120,494,626
+7MJW,A:M,B. uniformis tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase,457, tRNA,13,1.4,A,2239,1107,1131
+7NDJ,B:C,M. musculus CCCH Zn-finger domains,192,single-stranded RNA heptamer,7,2.4,D,761,363,398
+7OG0,A:BE,H. influenzae SapA in a closed conformation,527,dsRNA,17,2.61,C,421,208,214
+7OM6,AB:CDEF,T. asigna virus RdRP domain,684,RNA oligonucleotide,8,2.18,C,6642,3103,3539
+7OS0,A:F,R. capsulatus Cas13a,1304,crRNA,54,2.2,C,12277,5927,6350
+7P0V,A:B,H. sapiens SF3A1 ubiquitin-like domain,93,U1 snRNA stem-loop 4,24,1.56,C,1210,673,537
+7PLI,AB:CD,E. Coli K-12 ATP-dependent RNA helicase DbpA,459,single stranded RNA,24,2.5,D,7748,3646,4102
+7R9G,AC:BD,S. cerevisiae tRNA pseudouridine synthase 1,544, tRNA,18,2.4,A,935,443,492
+7V4G,A:D,H. sapiens RNA demethylase ALKBH5,220,m6A-containing ssRNA,8,2.1,D,1153,552,601
+7VKI,A:B,H Sapiens Epithelial splicing regulatory protein 1 (ESRP1),119,12-mer RNA,12,1.65,D,632,284,347
+7VKL,A:B,M. Musculus Insulin-like growth factor 2 mRNA-binding protein 3,164,zipcode RNA,8,1.95,D,1227,561,666
+7VSJ,A:B,M. Musculus Insulin-like growth factor 2 mRNA-binding protein 3,162,9-mer RNA,9,2.38,D,830,379,451
+7VTI,A:B,P. Bacterium Cas13bt3,777,CrRNA,41,1.89,C,7008,3257,3751
+7XD8,A:BC,Dengue Virus 2 NS5,647,30-mer RNA,30,2.85,D,3539,1646,1894
+7WKP,A:B,V. Phage ICP1  Csy4,189,3' stem loop crRNA,60,2,C,3732,1854,1878
+7XWZ,A:CD,SARS-CoV-2 N-NTD Nucleoprotein,125,  dsRNA,7+7,2.25,C,811,386,425
+7XPL,ABEF:GHIJ,S. Solfataricus C/D box methylation guide ribonucleoprotein complex aNOP56 subunit,388+232,BMG3 RNA strand AB+guide RNA,29+29+11,2.21,C,10152,4949,5204
+7Y7Q,AB:CED,N. Crasa RNA-dependent RNA polymerase,1026,SiRNAs,14+7,2.05,D,3922,1876,2046
+7YSE,AC:E,E. Coli Glycine--tRNA,303+697,TRNA,76,2.91,A,4769,2283,2486
+7Z42,AB:V,Influenza B virus Type B and type A influenza polymerases,751+772,vRNA,13,2.42,D,3683,1813,1870
+7ZHH,A:C,"D. Melanogaster Upstream of N-ras, isoform A",236,poly(A) RNA,15,1.6,D,993,469,524
+7ZLQ,A:DE,H. Sapiens ADAR1-dsRBD3,86,DsRNA,13+13,2.8,C,784,404,380
+8AF0,AB:CD,H. Sapiens Angiogenin,123,dsRNA,19,2.43,C,1068,581,487
+8AXF,ABCD:Q,E. Fici Nucleocapsid protein,315,SsRNA,42,2.54,D,10949,5154,5795
+8BH9,A:B,C. Tropicalis Est1,532,LC1 telomerase RNA fragment 427-435 / 496-504,12,2.09,C,798,393,405
+8DZK,A:F,"E. Histolytica RNA lariat debranching enzyme, putative",356,5-mer RNA,5,2.1,D,927,429,497
+8EDJ,A:R,Macaca mulatta APOBEC3G,386,RA3G-ssRNA-GA,10,1.83,D,1692,770,921
+8F5G,A:D, T. Pseudethanolicus NusG,182,B. Velezensis RNA,26,2.7,C,1529,751,778
+8FTM,B:D,T. thermophila 5'-3' RNA helicase-like protein,793,E. coli ssRNA,15,3,D,2268,1069,1199
+8H1B,A:C,S. Aureus YtqB,195,TRNA,17+17,1.55,A,1397,627,770
+8JOZ,A:B,E. Coli CmoM,282,tRNA Ser,88,2.22,A,1906,861,1045
+8PE3,AB:C,S. Thermophilus CRISPR  Csm6',390+390,mRNA,6,1.96,D,2891,1137,1753
+8T66,AB:C,N. halophilus Nc 4 Cam1,166,mRNA,6,1.85,D,1648,725,922
+8TG4,A:C,A. PernixTpt1,206, 2'-OH RNA,5,1.37,D,974,436,537
