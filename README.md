@@ -119,5 +119,5 @@ This updated benchmark will be valuable for:
 ## Citation
 If you use this dataset in your research, please cite:
 
-Shri Kant, NITHIN Chandran, Sunandan Mukherjee, et al. Protein-RNA Docking Benchmark v3.0 integrated with Binding Affinity. Authorea. September 23, 2024. DOI:[10.22541/au.172712541.17955138/v1](https://doi.org/10.22541/au.172712541.17955138/v1)
+Kant, S., Nithin, C., Mukherjee, S., Maity, A., & Bahadur, R. P. Protein-RNA Docking Benchmark v3.0 Integrated With Binding Affinity. Proteins: Structure, Function, and Bioinformatics. 2025. https://doi.org/10.1002/prot.26825
 
